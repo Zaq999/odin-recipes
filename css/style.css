@@ -17,4 +17,8 @@ body{
     padding: 0px 20px;
 }
 
+.content{
+    width: 50%;
+    margin: 0px auto;
+}
 
